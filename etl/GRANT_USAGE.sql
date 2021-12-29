@@ -1,0 +1,1 @@
+GRANT USAGE ON SCHEMA demo_db.RDS_Stage TO ROLE ALL_Developer;
